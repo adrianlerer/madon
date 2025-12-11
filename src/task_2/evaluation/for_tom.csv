@@ -1,0 +1,10 @@
+Experiment,Type,LIN,SI,CL,D,HI,PL,TI,PC,Macro Avg
+paragraph-multilabel-llama-base-full-finetune-asy-42.csv,Positive_F1,51.61,35.71,78.43,75.0,53.33,78.79,59.46,43.75,59.51
+paragraph-multilabel-llama-base-full-finetune-asy-42.csv,Negative_F1,99.3,98.3,98.36,99.91,99.68,98.99,98.57,99.16,99.03
+paragraph-multilabel-llama-base-full-finetune-asy-42.csv,Average_F1,75.46,67.01,88.4,87.45,76.5,88.89,79.01,71.45,79.27
+paragraph-multilabel-llama-base-full-finetune-asy-42.csv,Positive_Precision,44.44,32.26,74.07,60.0,57.14,76.47,57.89,46.67,56.12
+paragraph-multilabel-llama-base-full-finetune-asy-42.csv,Negative_Precision,99.53,98.58,98.8,100.0,99.63,99.13,98.66,99.07,99.17
+paragraph-multilabel-llama-base-full-finetune-asy-42.csv,Average_Precision,71.99,65.42,86.44,80.0,78.39,87.8,78.28,72.87,77.65
+paragraph-multilabel-llama-base-full-finetune-asy-42.csv,Positive_Recall,61.54,40.0,83.33,100.0,50.0,81.25,61.11,41.18,64.8
+paragraph-multilabel-llama-base-full-finetune-asy-42.csv,Negative_Recall,99.07,98.02,97.93,99.82,99.72,98.84,98.47,99.25,98.89
+paragraph-multilabel-llama-base-full-finetune-asy-42.csv,Average_Recall,80.3,69.01,90.63,99.91,74.86,90.05,79.79,70.21,81.84

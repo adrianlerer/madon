@@ -1,0 +1,9 @@
+Experiment,Macro Precision,Macro Recall,Macro F1
+holistic-formalism-llama-base,72.53,60.54,57.62
+holistic-formalism-llama-cpt,79.6,62.91,60.32
+holistic-formalism-modernbert,74.11,73.94,73.83
+holistic-formalism-modernbert-cpt,82.35,82.03,82.15
+random_predictions.csv,47.78,48.04,44.23
+zero_predictions.csv,20.69,50.0,29.27
+holistic-formalism-llama-base,77.09,75.49,75.9
+holistic-formalism-llama-cpt,79.89,77.45,77.96

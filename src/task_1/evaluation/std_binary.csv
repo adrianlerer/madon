@@ -1,0 +1,7 @@
+Experiment,Macro Precision,Macro Recall,Macro F1,Macro Precision Std,Macro Recall Std,Macro F1 Std
+paragraph-binary-llama-standard,87.05,75.15,79.49,0.84,2.1,1.73
+paragraph-binary-llama-base-peft,52.96,55.12,49.74,1.19,2.68,4.92
+paragraph-binary-llama-cpt-peft,53.7,55.65,51.27,7.35,12.58,11.2
+paragraph-binary-llama-cpt,85.79,65.85,70.69,1.44,0.67,0.87
+paragraph-binary-modernbert,86.19,79.77,82.51,1.53,2.76,2.33
+paragraph-binary-modernbert-cpt,86.04,80.07,82.64,0.5,2.14,1.51

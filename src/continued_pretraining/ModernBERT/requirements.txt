@@ -1,0 +1,6 @@
+﻿accelerate==1.4.0
+comet_ml==3.49.11
+datasets==3.2.0
+pandas==2.3.3
+torch==2.6.0+cu124
+transformers==4.49.0
