@@ -1,10 +1,10 @@
 ## Continued Pretraining scripts
 This directory contains scripts that were used to continue pretraining the models ModernBERT-large and Llama 3.1 8B base.
 The following steps have to be done to reproduce the pretraining data preprocessing and training:
-1. Obtain the raw pretraining data from https://git-ce.rwth-aachen.de/ivan.habernal.rub/czech-supreme-courts-data-and-crawler
+1. Obtain the raw pretraining data from https://git-ce.rwth-aachen.de/trusthlt-public/czech-supreme-courts-data-and-crawler
    a) Download the nsoud xml files
    ```bash
-   curl -L -o data/pretraining_data/nsoud.tar.bz2 "https://git-ce.rwth-aachen.de/ivan.habernal.rub/czech-supreme-courts-data-and-crawler/-/archive/main/czech-supreme-courts-data-and-crawler-main.tar.bz2?path=data/nsoud/nsoud-xml"
+   curl -L -o data/pretraining_data/nsoud.tar.bz2 "https://git-ce.rwth-aachen.de/trusthlt-public/czech-supreme-courts-data-and-crawler/-/archive/main/czech-supreme-courts-data-and-crawler-main.tar.bz2?path=data/nsoud/nsoud-xml"
    ```
    Extract the files, concatenate the chunks and extract into the correct subfolder (nsoud/xml)
    ```bash
@@ -19,7 +19,7 @@ The following steps have to be done to reproduce the pretraining data preprocess
    ```
    b) Download the nssoud xml files
    ```bash
-   curl -L -o data/pretraining_data/nssoud.tar.bz2 "https://git-ce.rwth-aachen.de/ivan.habernal.rub/czech-supreme-courts-data-and-crawler/-/archive/main/czech-supreme-courts-data-and-crawler-main.tar.bz2?path=data/nssoud/nssoud-xml"
+   curl -L -o data/pretraining_data/nssoud.tar.bz2 "https://git-ce.rwth-aachen.de/trusthlt-public/czech-supreme-courts-data-and-crawler/-/archive/main/czech-supreme-courts-data-and-crawler-main.tar.bz2?path=data/nssoud/nssoud-xml"
    ```
    Extract the files, concatenate the chunks and extract into the correct subfolder (nssoud/xml)
    ```bash

@@ -1,7 +1,7 @@
 ## Continued Pretraining ModernBERT
 The trained model is currently located here: https://huggingface.co/TrustHLT/ModernBERT-large-czech-legal
 
-Pretraining data was pulled from https://git-ce.rwth-aachen.de/ivan.habernal.rub/czech-supreme-courts-data-and-crawler
+Pretraining data was pulled from https://git-ce.rwth-aachen.de/trusthlt-public/czech-supreme-courts-data-and-crawler
 
 ## How to replicate the experiment
 #### Create conda environment 

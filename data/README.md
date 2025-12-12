@@ -6,7 +6,7 @@
 - Expert-annotated corpus of 272 Czech Supreme Court (1997-2024) and Supreme Administrative Court decisions (2003-2024). Paragraphs are labeled for one or more of eight argument types and each decision has a holistic formalism label. The dataset contains 1,913 annotated arguments. It was used to fine-tune and evaluate the models.
 - The MADON dataset can be found here: https://git-ce.rwth-aachen.de/trusthlt-public/madon-annotated-data
 ### **Pretraining Corpus**: 
-- The corpus of 300k unlabeled court decisions used for pretraining can be found here: https://git-ce.rwth-aachen.de/ivan.habernal.rub/czech-supreme-courts-data-and-crawler
+- The corpus of 300k unlabeled court decisions used for pretraining can be found here: https://git-ce.rwth-aachen.de/trusthlt-public/czech-supreme-courts-data-and-crawler
 ---
 ## Processing the dataset for all tasks:
 - This is for the processing of the MADON dataset;

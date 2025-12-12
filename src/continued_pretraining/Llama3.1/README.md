@@ -3,7 +3,7 @@ This code was used to continue pretraining the Llama 3.1 8B base model with Czec
 
 The trained model is currently located here: https://huggingface.co/TrustHLT/Llama-3.1-8B-czech-legal
 
-Pretraining data was pulled from https://git-ce.rwth-aachen.de/ivan.habernal.rub/czech-supreme-courts-data-and-crawler
+Pretraining data was pulled from https://git-ce.rwth-aachen.de/trusthlt-public/czech-supreme-courts-data-and-crawler
 
 ## How to replicate the experiment
 
